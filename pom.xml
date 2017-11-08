@@ -11,6 +11,7 @@
     <modules>
         <module>E3-Common</module>
         <module>E3-Manager</module>
+        <module>E3-Web</module>
     </modules>
     <properties>
         <junit.version>4.12</junit.version>

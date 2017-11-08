@@ -17,7 +17,7 @@
         <module>E3-Interface</module>
         <module>E3-Pojo</module>
         <module>E3-Service</module>
-        <module>E3-Web</module>
+
     </modules>
     <dependencies>
         <dependency>
